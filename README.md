@@ -2,10 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Simple Users post and get app
 
-to start the project run the foloing commands:
+to start the project open two terminals and run the following commands:
+
+First terminal:
 
 `cd server-nestjs`
 `npm run start:dev`
-`cd ..`
+
+Second terminal:
+
 `cd user-registration-form`
 `npm run start`
